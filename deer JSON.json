@@ -1,0 +1,95 @@
+[
+	{
+		"name": "Angry A",
+		"author": "Aectann",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+		"dimensions": "3200x2560",
+		"copyright": "Aectann",
+		"collections": "featured,landscapes,people,city",
+		"featured": true
+	},
+	{
+		"name": "Cool A",
+		"author": "Aectann",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
+		"dimensions": "3200x2560",
+		"copyright": "Aectann",
+		"collections": "featured,landscapes,people,food"
+	},
+	{
+		"name": "Crazy A",
+		"author": "Aectann",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+		"thumbnail": "https://via.placeholder.com/450",
+		"dimensions": "3200x2560",
+		"copyright": "Aectann",
+		"collections": "featured,food,people"
+	},
+	{
+		"name": "Glad A",
+		"author": "Aectann",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
+		"dimensions": "3200x2560",
+		"copyright": "Aectann",
+		"collections": "landscapes,people,city"
+	},
+	{
+		"name": "Happy A",
+		"author": "Aectann",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
+		"dimensions": "3200x2560",
+		"copyright": "Aectann",
+		"collections": "featured,landscapes",
+		"downloadable": false
+	},
+	{
+		"name": "Inlove A",
+		"author": "Aectann",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
+		"dimensions": "3200x2560",
+		"copyright": "Aectann",
+		"collections": "featured,people"
+	},
+	{
+		"name": "Laugh A",
+		"author": "Aectann",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
+		"thumbnail": "https://via.placeholder.com/500",
+		"dimensions": "3200x2560",
+		"copyright": "Aectann",
+		"collections": "landscapes,people"
+	},
+	{
+		"name": "Surprized A",
+		"author": "Aectann",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
+		"thumbnail": "https://via.placeholder.com/150",
+		"dimensions": "3200x2560",
+		"copyright": "Aectann",
+		"collections": "food"
+	},
+		{
+		"name": "Unning A",
+		"author": "Aectann",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
+		"dimensions": "3200x2560",
+		"copyright": "Aectann",
+		"collections": "featured,landscapes",
+		"downloadable": false
+	},
+		{
+		"name": "Winking A",
+		"author": "Aectann",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
+		"dimensions": "3200x2560",
+		"copyright": "Aectann",
+		"collections": "featured,landscapes"
+	}
+]
