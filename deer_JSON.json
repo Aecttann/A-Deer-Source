@@ -16,7 +16,7 @@
 		"thumbnail": "https://github.com/Aecttann/A-Deer-Source/blob/master/My_deer_with_bckg/cool.png?raw=true",
 		"dimensions": "1920x1080",
 		"copyright": "Aectann",
-		"collections": "featured"
+		"collections": "featured",
 		"featured": true
 	},
 	{
@@ -26,7 +26,8 @@
 		"thumbnail": "https://github.com/Aecttann/A-Deer-Source/blob/master/My_deer_with_bckg/thumbs/crazyThumb.png?raw=true",
 		"dimensions": "1920x1080",
 		"copyright": "Aectann",
-		"collections": "featured"
+		"collections": "featured",
+		"featured": true
 	},
 	{
 		"name": "Glad A",
@@ -35,7 +36,8 @@
 		"thumbnail": "https://github.com/Aecttann/A-Deer-Source/blob/master/My_deer_with_bckg/thumbs/gladThumb.png?raw=true",
 		"dimensions": "1920x1080",
 		"copyright": "Aectann",
-		"collections": "featured"
+		"collections": "featured",
+		"featured": true
 	},
 	{
 		"name": "Happy A",
@@ -45,7 +47,8 @@
 		"dimensions": "1920x1080",
 		"copyright": "Aectann",
 		"collections": "featured",
-		"downloadable": false
+		"downloadable": false,
+		"featured": true
 	},
 	{
 		"name": "Inlove A",
@@ -54,7 +57,8 @@
 		"thumbnail": "https://github.com/Aecttann/A-Deer-Source/blob/master/My_deer_with_bckg/thumbs/inloveThumb.png?raw=true",
 		"dimensions": "1920x1080",
 		"copyright": "Aectann",
-		"collections": "featured"
+		"collections": "featured",
+		"featured": true
 	},
 	{
 		"name": "Laugh A",
@@ -63,7 +67,8 @@
 		"thumbnail": "https://github.com/Aecttann/A-Deer-Source/blob/master/My_deer_with_bckg/thumbs/laughThumb.png?raw=true",
 		"dimensions": "1920x1080",
 		"copyright": "Aectann",
-		"collections": "featured"
+		"collections": "featured",
+		"featured": true
 	},
 	{
 		"name": "Surprized A",
@@ -72,7 +77,8 @@
 		"thumbnail": "https://github.com/Aecttann/A-Deer-Source/blob/master/My_deer_with_bckg/thumbs/surprizedThumb.png?raw=true",
 		"dimensions": "1920x1080",
 		"copyright": "Aectann",
-		"collections": "featured"
+		"collections": "featured",
+		"featured": true
 	},
 		{
 		"name": "Unning A",
@@ -82,7 +88,8 @@
 		"dimensions": "1920x1080",
 		"copyright": "Aectann",
 		"collections": "featured",
-		"downloadable": false
+		"downloadable": false,
+		"featured": true
 	},
 		{
 		"name": "Winking A",
@@ -91,6 +98,7 @@
 		"thumbnail": "https://github.com/Aecttann/A-Deer-Source/blob/master/My_deer_with_bckg/thumbs/winkingThumb.png?raw=true",
 		"dimensions": "1920x1080",
 		"copyright": "Aectann",
-		"collections": "featured"
+		"collections": "featured",
+		"featured": true
 	}
 ]
